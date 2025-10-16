@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://projetopixsolidario.netlify.app/sitemap.xml
